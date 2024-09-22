@@ -1,2 +1,3 @@
 rootProject.name = 'otusJava-2024-08'
+include 'hw-01-annotations'
 
